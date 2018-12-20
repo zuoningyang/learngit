@@ -1,2 +1,2 @@
 # learngit
-branch manager
+git is good tool
