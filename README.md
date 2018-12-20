@@ -1,2 +1,2 @@
 # learngit
-git is good tool
+git is a good tool
